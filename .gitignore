@@ -1,0 +1,65 @@
+# Build directory
+build/
+
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Compiled executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# GBA files
+*.gba
+*.sav
+
+# Generated files
+*.map
+
+# Dependency files
+*.d
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini 
